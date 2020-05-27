@@ -10,9 +10,14 @@ titanic.columns = ['PassengerId','Survived','Pclass','Name','Sex','Age','SibSp',
 You use only Pclass, Sex, Age, SibSp (Siblings aboard), Parch (Parents/children aboard), and Fare to predict whether a passenger survived.   
 
 .............Evaluation metrics..............
+
 Accuracy:  0.6044776119402985
+
 cm:  [[82 90]
  [16 80]]
+ 
 Precision:  0.8367346938775511
+
 Recall:  0.47674418604651164
+
 F1Score:  0.6074074074074074
